@@ -1,0 +1,14 @@
+{
+  "name": "code-class-typescript",
+  "version": "1.0.0",
+  "description": "A Code-class about TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc -w --noEmit"
+  },
+  "author": "Remco",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "3.2.2"
+  }
+}
